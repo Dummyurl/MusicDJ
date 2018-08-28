@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d272c</color>
+    <color name="colorPrimaryDark">#1d272c</color>
+    <color name="colorAccent">#fa695f</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="colorPink">#F3716C</color>
+
+
+    <color name="app_background">#FFFFFFFF</color>
+
+    // Red
+
+    // Pink
+
+    // Purple
+
+    // Deep Purple
+
+    // Indigo
+
+    // Blue
+    <color name="blue200">#90caf9</color>
+
+    // Light Blue
+
+    // Cyan
+
+    // Tea
+
+    // Green
+
+    // Light Green
+
+    // Lime
+
+    // Yellow
+
+    // Amber
+
+    // Orange
+
+    // Deep Orange
+
+    // Brown
+
+    // Grey
+    <color name="grey200">#eeeeee</color>
+
+    // Blue Grey
+
+</resources>
